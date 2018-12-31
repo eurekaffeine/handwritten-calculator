@@ -9,7 +9,7 @@
 
 ## Installation
 * We compile and debug our project mainly on `python 3.6`.
-* The detailed installation tutorial of `keras` and `tensorflow` can be found in [keras](https://keras.io/) and [Tensorflow]( https://www.tensorflow.org/).
+* The detailed installation tutorial of `keras` and `tensorflow` can be found in [keras](https://keras.io/) and [tensorflow]( https://www.tensorflow.org/).
 * In order to show the GUI and functionality of our calculator, please run the `main.py`.
 
 ## Description
