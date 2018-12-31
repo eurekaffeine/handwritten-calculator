@@ -25,4 +25,4 @@ There are several `.py` files in our project. The detailed descriptions can be s
 * The operand dataset contains over 400 self-generated operand samples which can be utilized for trainning.
 * We have pre-trained the model of operands and save the weights in `operand_model.h5` and `operand_model.js`.
 * Its structure follows the recommendation of image preprocessing in keras. Please visit [here](https://keras.io/preprocessing/image/) for further information.
-* In order to utilze the self-generated dataset, please contact me for utilzation.
+* In order to utilze the self-generated dataset, please contact me to retrieve.
