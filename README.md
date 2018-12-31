@@ -12,7 +12,7 @@
 * The detailed installation tutorial of `keras` and `tensorflow` can be found in [keras](https://keras.io/) and [Tensorflow]( https://www.tensorflow.org/).
 * In order to show the GUI and functionality of our calculator, please run the `main.py`.
 
-## Descriptions
+## Description
 There are several `.py` files in our project. The detailed descriptions can be seen as follow:
 * `main.py`: Main function of our project containing the GUI component
 * `mnsit_train.py`: Training the dataset of MNIST and saving as a `mnist_model.h5` file for further usage
