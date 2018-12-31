@@ -18,7 +18,7 @@ There are several `.py` files in our project. The detailed descriptions can be s
 * `mnsit_train.py`: Training the dataset of MNIST and saving as a `mnist_model.h5` file for further usage
 * `mnist_recognition.py`: Recognition base on the `mnist_model.h5` file
 * `operand_train.py`: Training the dataset of MNIST and saving as `operand_model.h5` and `operand_model.json` files for further usage
-* `operand_recognition.py`: Recognition base on the `operand_model.h5` and `operand_model.json`file
+* `operand_recognition.py`: Recognition base on the `operand_model.h5` and `operand_model.json` files
 
 ## Self-generated Dataset
 * In this project, we generate the operand dataset by ourselves.
