@@ -1,7 +1,6 @@
 # handwritten-calculator
 ## Introduction
-* This is the course project of ECE-6183 DSP Lab.
-* We design a real-time handwritten calculator which can recognize handwritten digits as well as 4 basic operands, namely plus, minus, divide and mutiply. 
+* A real-time handwritten calculator which can recognize handwritten digits as well as 4 basic operands, namely plus, minus, divide and mutiply. 
 * We utilize Convolutional Neural Network to not only train the MNIST dataset but also our self-generated dataset of operands.
 * We implement our project with `keras` frame based on `tensorflow` backend.
 * The Graphic User Interface is mainly realized by `Tkinter` library.
